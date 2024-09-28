@@ -1,2 +1,3 @@
 # financetracker
 DBMS Project
+Finance Tracker aimed at helping individuals and families efficiently manage their personal finances. The project featured a relational database to systematically store and manage data such as income, expenses, savings, and investments. Key functionalities included secure user authentication, transaction management, financial goal setting, and budget tracking. The system also generated insightful reports on spending patterns and provided reminders for upcoming bills and commitments. This project strengthened my skills in database design, SQL, and web development, demonstrating my ability to build secure, scalable DBMS applications.
